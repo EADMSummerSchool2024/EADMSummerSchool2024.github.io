@@ -20,7 +20,7 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="tel" class="form-control" name="phone" placeholder="Your Phone" id="phone" required data-validation-required-message="Please enter your phone number (optional).">
+                                    <input type="tel" class="form-control" name="phone" placeholder="Your Department" id="phone" required data-validation-required-message="Please enter your phone number (optional).">
                                     <p class="help-block text-danger"></p>
                                 </div>
                              <div class="control-group form-group">
@@ -30,15 +30,21 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="control-group form-group">
-                                    <input type="text" class="form-control" name="name" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                                    <input type="text" class="form-control" name="name" placeholder="Your Institution *" id="institution" required data-validation-required-message="Please enter your name.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="email" class="form-control" name="_replyto" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                    <input type="text" class="form-control" name="_replyto" placeholder="Your Department *" id="department" required data-validation-required-message="Please enter your email address.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="tel" class="form-control" name="phone" placeholder="Your Phone" id="phone" required data-validation-required-message="Please enter your phone number (optional).">
+                                    <datalist class="form-control" name="phone" id="stage" required data-validation-required-message="Please enter your career stage.">
+                                  <option value="Master student">
+                                  <option value="Doctoral student">
+                                  <option value="Postdoc">
+                                  <option value="Assistant prof./Group leader">
+                                  <option value="Assoc./Full Professoor">
+                                  </datalist>
                                     <p class="help-block text-danger"></p>
                                 </div>
                                  <div class="control-group form-group">
