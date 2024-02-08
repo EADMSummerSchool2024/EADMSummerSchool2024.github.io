@@ -10,8 +10,8 @@
 - title: Iyad Rahwan
   name: Name-2
   subtitle: Max Planck Institute for Human Development
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: iyad.png
+  thumbnail: iyad_small.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -19,8 +19,8 @@
 - title: Chiara Longoni
   name: Name-3
   subtitle: Bocconi University    
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: chiara.jpeg
+  thumbnail: chiara.jpeg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -28,8 +28,73 @@
 - title: Gaël Le Mens
   name: Name-4
   subtitle: Pompeu Fabra University
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: gael.jpeg
+  thumbnail: gael.jpeg
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  
+- title: Dirk Wulff
+  name: Name-5
+  subtitle: Max Planck Institute for Human Development
+  img: dirk.png
+  thumbnail: dirk_small.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Zak Hussain
+  name: Name-6
+  subtitle: University of Basel
+  img: zak.png
+  thumbnail: zak_small.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Anne-Marie Nussberger
+  name: Name-7
+  subtitle: Max Planck Institute for Human Development
+  img: annemarie.png
+  thumbnail: annemarie.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Laura Weidinger
+  name: Name-8
+  subtitle: DeepMind
+  img: gael.jpeg
+  thumbnail: gael.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Zoë Purcell
+  name: Name-9
+  subtitle: University of Paris City
+  img: zoe.png
+  thumbnail: zoe.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Jason Burton
+  name: Name-10
+  subtitle: Copenhagen Business School
+  img: json.png
+  thumbnail: json.png
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Nils Köbis
+  name: Name-11
+  subtitle: University of Duisburg-Essen
+  img: nils.jpeg
+  thumbnail: nils.jpeg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+  
