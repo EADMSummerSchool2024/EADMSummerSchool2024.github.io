@@ -9,7 +9,7 @@
 
 - title: Iyad Rahwan
   name: Name-2
-  subtitle: Max Planck Institute for Human Development
+  subtitle: MPI for Human Development
   img: iyad.png
   thumbnail: iyad_small.png
   alt: Picture of TBD
@@ -36,7 +36,7 @@
   
 - title: Dirk Wulff
   name: Name-5
-  subtitle: Max Planck Institute for Human Development
+  subtitle: MPI for Human Development
   img: dirk.png
   thumbnail: dirk_small.png
   alt: Picture of TBD
@@ -54,7 +54,7 @@
   
 - title: Anne-Marie Nussberger
   name: Name-7
-  subtitle: Max Planck Institute for Human Development
+  subtitle: MPI for Human Development
   img: annemarie.png
   thumbnail: annemarie.png
   alt: Picture of TBD
@@ -82,8 +82,8 @@
 - title: Jason Burton
   name: Name-10
   subtitle: Copenhagen Business School
-  img: json.png
-  thumbnail: json.png
+  img: jason.png
+  thumbnail: jason.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
