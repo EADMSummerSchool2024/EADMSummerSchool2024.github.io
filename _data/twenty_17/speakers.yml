@@ -1,33 +1,33 @@
-- title: Name
+- title: Melanie Mitchell
   name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Santa Fe Institute
+  img: melanie.png
+  thumbnail: melanie_small.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Iyad Rahwan
   name: Name-2
-  subtitle: Position
+  subtitle: Max Planck Institute for Human Development
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Chiara Longoni
   name: Name-3
-  subtitle: Position
+  subtitle: Bocconi University    
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
   
-- title: Name
+- title: Gaël Le Mens
   name: Name-4
-  subtitle: Position
+  subtitle: Pompeu Fabra University
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
