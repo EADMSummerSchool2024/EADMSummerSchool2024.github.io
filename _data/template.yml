@@ -3,7 +3,8 @@ color:
   #primary: 3cb371
   #primary: 6aba9a
   primary: 70A9A1
-  secondary: F3E82D   
+  #secondary: F3E82D   
+  secondary: 274156
   secondary-dark: 00283c
   muted: 777
 
