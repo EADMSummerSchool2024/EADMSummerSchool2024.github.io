@@ -927,7 +927,7 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-i.fa-bluesky{
+/*i.fa-bluesky{
  content:url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.png');
  transform: scale(.05);
-}
+}*/
