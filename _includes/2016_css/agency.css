@@ -935,5 +935,4 @@ body {
 i.fa-bluesky:before {
     background-image: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.svg');
     width: 20px;
-    fill: "white";
   }
