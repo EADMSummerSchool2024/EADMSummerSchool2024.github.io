@@ -932,7 +932,7 @@ body {
  transform: scale(.05);
 }*/
 
-i.fa-bluesky::before {
+i.fa-bluesky:before {
     background: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.png');
     background-repeat: no-repeat;
     background-size: cover; /* stretch the background to cover the whole element */
