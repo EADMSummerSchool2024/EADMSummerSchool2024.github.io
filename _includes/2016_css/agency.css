@@ -845,6 +845,7 @@ ul.social-buttons-top li a {
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+    text-transform: lowercase;
 }
 
 ul.social-buttons-top li a:hover,
