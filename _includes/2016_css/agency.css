@@ -933,6 +933,6 @@ body {
 }*/
 
 i.fa-bluesky:before {
-    content: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky_icon.png');
-     transform: scale(.1);
+    content: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.svg');
+    fill: white;
 }
