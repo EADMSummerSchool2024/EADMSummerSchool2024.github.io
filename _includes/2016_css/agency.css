@@ -933,5 +933,7 @@ body {
 }*/
 
 i.fa-bluesky:before {
-    content: <img src='{{ site.baseurl }}/css/2017_style/img/logos/bluesky.svg' width = 20px color="white">;
-}
+    background-image: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.svg');
+    width = 20px;
+    fill="white";
+  }
