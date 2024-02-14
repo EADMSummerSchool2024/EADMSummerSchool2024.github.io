@@ -371,10 +371,10 @@ header .intro-text .intro-heading {
 }
 
 header .intro-icons {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     text-transform: lowercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 20px;
+    font-size: 22px;
   }
 
 @media(min-width:768px) {    
@@ -399,6 +399,13 @@ header .intro-icons {
         font-weight: 700;
         line-height: 70px;
     }
+    
+    header .intro-icons {
+      margin-bottom: 20px;
+      text-transform: lowercase;
+      font-family: {{ site.data.template.font.primary }};
+      font-size: 35px;
+      }
     
     header .flyer {
       height = 
