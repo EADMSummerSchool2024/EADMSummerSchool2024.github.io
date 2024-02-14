@@ -370,6 +370,13 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
+header .intro-icons {
+    margin-bottom: 5px;
+    text-transform: lowercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 20px;
+  }
+
 @media(min-width:768px) {    
     header .intro-text {
         padding-top: 300px;
