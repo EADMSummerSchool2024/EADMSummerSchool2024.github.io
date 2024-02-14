@@ -846,11 +846,11 @@ ul.social-buttons-top {
 
 ul.social-buttons-top li a {
     display: block;
-    width: 24px;
-    height: 24px;
+    width: 28px;
+    height: 28px;
     border-radius: 100%;
-    font-size: 12px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 28px;
     outline: 0px solid #fff;
     color: #fff;
     background-color: #F4582A;
