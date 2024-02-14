@@ -933,5 +933,5 @@ body {
 }*/
 
 i.fa-bluesky:before {
-    content: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.png');
+    content: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky_icon.png');
 }
