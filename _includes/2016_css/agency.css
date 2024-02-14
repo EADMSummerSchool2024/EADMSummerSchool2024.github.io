@@ -851,9 +851,9 @@ ul.social-buttons-top li a {
     border-radius: 100%;
     font-size: 12px;
     line-height: 24px;
-    outline: .2px solid #fff;
-    color: #F4582A;
-    background-color: #fff;
+    outline: 0px solid #fff;
+    color: #fff;
+    background-color: #F4582A;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -869,9 +869,9 @@ ul.social-buttons-top li a {
     border-radius: 100%;
     font-size: 20px;
     line-height: 40px;
-    outline: .2px solid #fff;
-    color: #F4582A;
-    background-color: #fff;
+    outline: 0px solid #fff;
+    color: #fff;
+    background-color: #F4582A;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
