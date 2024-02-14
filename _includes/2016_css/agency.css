@@ -846,6 +846,24 @@ ul.social-buttons-top {
 
 ul.social-buttons-top li a {
     display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    outline: 1px solid #fff;
+    color: #fff;
+    background-color: #F4582A;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    text-transform: lowercase;
+}
+
+@media(min-width:768px) {   
+  
+  ul.social-buttons-top li a {
+    display: block;
     width: 40px;
     height: 40px;
     border-radius: 100%;
@@ -858,6 +876,9 @@ ul.social-buttons-top li a {
     -moz-transition: all .3s;
     transition: all .3s;
     text-transform: lowercase;
+  }
+  
+  
 }
 
 ul.social-buttons-top li a:hover,
