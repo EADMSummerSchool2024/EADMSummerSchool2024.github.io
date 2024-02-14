@@ -931,3 +931,17 @@ body {
  content:url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.png');
  transform: scale(.05);
 }*/
+
+i.fa-bluesky {
+    background: url('{{ site.baseurl }}/css/2017_style/img/logos/bluesky.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* stretch the background to cover the whole element */
+
+    /* 
+       still inline, but has block features
+       meaning height and width can be set
+    */
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
