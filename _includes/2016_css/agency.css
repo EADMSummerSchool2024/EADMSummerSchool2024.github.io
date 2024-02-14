@@ -852,8 +852,8 @@ ul.social-buttons-top li a {
     font-size: 12px;
     line-height: 24px;
     outline: .2px solid #fff;
-    color: #fff;
-    background-color: #F4582A;
+    color: #F4582A;
+    background-color: #fff;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
