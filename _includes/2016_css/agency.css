@@ -375,7 +375,6 @@ header .intro-icons {
     text-transform: lowercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
-    border: 1px solid #fff;
   }
 
 @media(min-width:768px) {    
@@ -406,7 +405,6 @@ header .intro-icons {
       text-transform: lowercase;
       font-family: {{ site.data.template.font.primary }};
       font-size: 35px;
-      border: 1px solid #fff;
       }
     
     header .flyer {
